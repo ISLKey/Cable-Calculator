@@ -40,7 +40,7 @@
 - [x] Create installation instructions
 
 ## Phase 7: Deliver final application to user
-- [ ] Package application files
+- [X] Package application files
 - [ ] Provide usage instructions
 - [ ] Deliver to user
 
